@@ -19,6 +19,6 @@ I'm Sophie, a student at Brigham Young University-Idaho interested in software e
 
 ## Let's Connect!
 
-- Here is my [LinkedIn](https://www.linkedin.com/in/sophiearchibald/) profile
+Here is my [LinkedIn](https://www.linkedin.com/in/sophiearchibald/) profile
 
 Feel free to explore my project repositories, and don't hesitate to reach out! ✌️

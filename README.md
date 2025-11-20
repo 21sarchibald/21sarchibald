@@ -7,8 +7,8 @@ I'm Sophie, a student at Brigham Young University-Idaho interested in software e
 ## About Me
 
 - I'm currently learning React and Pandas while I sharpen my AI incorporation abilities and practice building websites with JavaScript, HTML, and CSS
-- My goals are to gain an internship in software engineering, graduate from BYU-I, and become a product manager :))
-- Ask me about my outfit customizing mobile app or my kpop website ;)
+- My goals are to gain an internship in software engineering, graduate from BYU-I, and become a product manager
+- Ask me about my outfit customizing mobile app or my kpop website 😈
 
 ## Technologies and Tools
 
@@ -19,6 +19,6 @@ I'm Sophie, a student at Brigham Young University-Idaho interested in software e
 
 ## Let's Connect!
 
-- Here is my [LinkedIn]([Your LinkedIn Profile Link](https://www.linkedin.com/in/sophiearchibald/) profile
+- Here is my [LinkedIn](https://www.linkedin.com/in/sophiearchibald/) profile
 
 Feel free to explore my project repositories, and don't hesitate to reach out! ✌️
